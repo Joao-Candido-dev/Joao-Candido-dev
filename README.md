@@ -58,9 +58,9 @@ auxiliando alunos na aplicação de técnicas de levantamento, documentação e 
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Joao-Candido-dev&show_icons=true&theme=dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Candido-dev&layout=compact&theme=dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Joao-Candido-dev&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Candido-dev&layout=compact&theme=dark&hide_border=true&cache_seconds=1800)
 ---
 
 <p align="center">
