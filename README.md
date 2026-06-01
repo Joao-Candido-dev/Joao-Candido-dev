@@ -1,8 +1,8 @@
-## Olá, sou o João Victor Candido Vitor 👋
+## Olá, sou o João Victor Candido Vitor 
 
 Estudante de Sistemas de Informação na **UTFPR** · Apaixonado por desenvolvimento de software e resolução de problemas
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-joao--victor-blue?logo=linkedin)](https://linkedin.com/in/joao-candido-dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-João%20Victor-blue?logo=linkedin)](https://www.linkedin.com/in/jo%C3%A3o-victor-candido-vitor-a30a76210/)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
@@ -19,9 +19,9 @@ construindo soluções que unem tecnologia e educação.
 - 🎓 Cursando **Sistemas de Informação** na UTFPR
 - 💻 Desenvolvendo projetos com **HTML, CSS, JavaScript** e **Python**
 - 🗄️ Trabalhando com bancos de dados **MongoDB**, **MySQL** e **Firebase**
-- 🔬 Iniciação científica: Aplicativo de gestão financeira para ensino de matemática para crianças
+- 🔬 Iniciação científica — aplicativo de gestão financeira para ensino de matemática para crianças
 - 📋 Ex-monitor de **Engenharia de Software** com foco em requisitos de sistemas
-- 🌱 Sempre aprendendo e explorando boas práticas de desenvolvimento
+- 🌱 Sempre aprendendo — explorando boas práticas de desenvolvimento
 
 ---
 
